@@ -12,9 +12,8 @@
 <img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20user.png />
 <br>
 <h3>Tampilan Dashboard User2</h3>
-<img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20index2.png />
+<img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20user2.png />
 <br>
-
 <h3>Tampilan Dashboard Index</h3>
 <img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20index.png />
 <br>
