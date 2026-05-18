@@ -9,7 +9,7 @@
 <img widht="1336" height="614" alt="image" src="https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20admin.png" />
 <br>
 <h3>Tampilan Dashboard User</h3>
-<img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20admin.png />
+<img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/commit/4e6dac69ce200b4d2aff52dc5a2ada46f4cc2356 />
 <br>
 <h3>Tampilan Dashboard User2</h3>
 <img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Teman_Kampus/blob/main/dashboard%20driver.png />
