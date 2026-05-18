@@ -8,9 +8,16 @@
 <h3>Tampilan Dashboard Admin</h3>
 <img widht="1336" height="614" alt="image" src="https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20admin.png" />
 <br>
+<h3>Tampilan Dashboard User</h3>
+<img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20index.png />
+<br>
+<h3>Tampilan Dashboard User2</h3>
+<img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20index2.png />
+<br>
+
 <h3>Tampilan Dashboard Index</h3>
 <img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20index.png />
 <br>
 <h3>Tampilan Dashboard Index2</h3>
-<img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Teman_Kampus/blob/main/dashboard%20driver.png />
+<img width="1336" height="614" alt="image" src=https://github.com/hanifaekafauziah/Project-Simulasi/blob/main/dashboard%20index2.png />
 <br>
